@@ -6,10 +6,10 @@ python 随机向某盗号网站传输虚假数据
 于是编写了这份Python程序。
 # ----- 分割线 ----- #
 使用方式：
-1.下载本仓库。\n
-2.根据Requirements.txt文件 安装所需文件（pip）\n
-通过此命令安装：\n
-* pip install -r requirements.txt * \n
+1.下载本仓库。
+2.根据Requirements.txt文件 安装所需文件（pip）
+通过此命令安装：
+* pip install -r requirements.txt * 
 3.使用idle或其他编辑器打开[index.py]并运行(如果出现问题请通过issue反馈给我QAQ) \n
 
 Tips:
